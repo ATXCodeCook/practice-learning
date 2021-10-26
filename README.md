@@ -1,2 +1,3 @@
-# practice-learning
-Tutorials, practice and learning
+# Continual Practice files
+
+This repository holds experiment and practice files.
